@@ -1,0 +1,1 @@
+This readme is for day2 folder. it is committed for Github.
